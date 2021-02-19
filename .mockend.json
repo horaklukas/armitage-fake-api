@@ -1,0 +1,10 @@
+{
+  "Book": {
+    "title": "string",
+    "info": "string",
+    "available": "boolean",
+    "createdAt": "date",
+    "updatedAt": "date",
+    "image": "string"
+  }
+}
