@@ -1,5 +1,6 @@
 {
-    "books": {
+  "books": [
+    {
       "title": "Hluboká práce",
       "info": "NEWPORT, Cal. Hluboká práce: pravidla pro soustředěný úspěch v roztěkaném světě. Brno: Jan Melvil Publishing, 2016. ISBN 978-80-7555-008-8.",
       "available": true,
@@ -7,5 +8,5 @@
       "updatedAt": "2021-02-19",
       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473805818l/32033783._SY475_.jpg"
     }
-  }
-  
+  ]
+}
